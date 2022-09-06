@@ -2,7 +2,7 @@
 Tesla Coding Challenge
 The Application is created in Python.
 
-Objective of the project:
+**Objective**:
 1) Please query all events that have occurred during year 2017
 2) Read a JSON response from the API
 3) Design the database objects required to store the result in a relational fashion.
@@ -16,4 +16,4 @@ Objective of the project:
 3) TotalEvents.png - Displays the Total events occurred during year 2017 with the raw data
 4) BiggestEarthQuake_Analysis.png - Depicts the biggest earth quake of the year 2017 (highlighted in red)
 5) MostProbableHour.png - Matrix visualization of the probable hour of the day for the earthquakes bucketed by the range of magnitude 
-
+6) Queries.sql - Queries for item 1, 5 & 6 in objective section
