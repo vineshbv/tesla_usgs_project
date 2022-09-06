@@ -1,6 +1,8 @@
 # tesla_usgs_project
 Tesla Coding Challenge
-The Application is created in Python.
+
+# Author: Vinesh
+# Date : 04-09-2022
 
 **Objective**:
 1) Please query all events that have occurred during year 2017
