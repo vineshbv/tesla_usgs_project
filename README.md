@@ -15,3 +15,4 @@ DB Schema.sql - Table Valuation.EventsOverview schema
 TotalEvents.png - Displays the Total events occurred during year 2017 with the raw data
 BiggestEarthQuake_Analysis.png - Depicts the biggest earth quake of the year 2017 (highlighted in red)
 MostProbableHour.png - Matrix visualization of the probable hour of the day for the earthquakes bucketed by the range of magnitude 
+
